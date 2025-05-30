@@ -4,6 +4,11 @@ A collection of statically build software tools.
 
 Download: [https://files.serverless.industries/bin/](https://files.serverless.industries/bin/)
 
+## Command
+```
+./run-build.sh  dig  aarch64
+
+```
 ## Tools
 
 Last checked for new versions: 2025-01-31
